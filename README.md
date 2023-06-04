@@ -4,13 +4,14 @@
 
 ### 💻 ML stack
 <p align="left">
-  <a href"https://www.python.org/" target="_blank">
-  <img src="https://i.pinimg.com/originals/a9/ac/a2/a9aca2f4501163a0820d59e0236d2bc8.png"/ width=60 height=60>
-  <img src="https://jarcasting.com/img/org_logos/c/a/catboost.png"/ width=60 height=60>
-  <img src="https://www.unitygroup.com/wp-content/uploads/2020/12/Scikit-learn_logo.jpg"/ width=60 height=60>
-  <img src="https://static.tildacdn.com/tild6363-3034-4334-b635-343764666537/AKedOLSoFTKBTgTbg8Y1.jpg"/ width=60 height=60>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png"/ width=60 height=60>
-  <img src="https://yt3.googleusercontent.com/ytc/AL5GRJUSaOWRBpT2U4H8VyU1It7unGMDDT8mNJ14rZkg=s900-c-k-c0x00ffffff-no-rj"/ width=60 height=60>
+  <img src="https://cdn66.printdirect.ru/cache/product/26/35/6239603/tov/all/480z480_front_1009_0_0_0_5614f2aa57b291cb813562e1fd64.jpg"/ width=50 height=50>
+  <img src="https://www.unitygroup.com/wp-content/uploads/2020/12/Scikit-learn_logo.jpg"/ width=50 height=50>
+  <img src="https://jarcasting.com/img/org_logos/c/a/catboost.png"/ width=50 height=50>
+  <img src="https://dl.acm.org/cms/asset/9c859475-4d73-42f6-9687-276e8016dd81/3292500.3330701.key.jpg"/ width=50 height=50>
+  <img src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https:%2F%2Fblog.kakaocdn.net%2Fdn%2F4UIIH%2FbtqIH4tfonl%2FLyCOqYkmqKo1gFrogryni1%2Fimg.png"/ width=50 height=50>
+  <img src="https://static.tildacdn.com/tild6363-3034-4334-b635-343764666537/AKedOLSoFTKBTgTbg8Y1.jpg"/ width=50 height=50>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png"/ width=50 height=50>
+  <img src="https://yt3.googleusercontent.com/ytc/AL5GRJUSaOWRBpT2U4H8VyU1It7unGMDDT8mNJ14rZkg=s900-c-k-c0x00ffffff-no-rj"/ width=50 height=50>
 </p>
 
             
@@ -31,3 +32,9 @@
 * 🇷🇺 Russian - Native
 * 🇬🇧 English  - B2
 * 🇩🇪 German - A2
+
+### Concats
+
+<b href="https://t.me/duck_mooduck" align="left">
+  <img src="https://arion-metal.ru/local/templates/bx_orion/images/tlg.png"/ width=50 height=50>
+</b>
