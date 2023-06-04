@@ -3,6 +3,10 @@
 ### Machine learning engineer / Data Scientist
 
 ### 💻 ML stack
+<p align="center">
+  <img src="your_relative_path_here" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
 
 ### 👨‍🎓 Education
 * [NUST MISIS](https://en.misis.ru/) (Since 2022)
@@ -18,6 +22,6 @@
 * [CleanCodeCup](http://it-math.asu.ru/) "Image Classification" 7, 2023
 
 ### :earth_africa: Languages
-* Russian - Native
-* English - B2
-* German - A2
+* 🇷🇺 Russian - Native
+* 🇬🇧 English  - B2
+* 🇩🇪 German - A2
