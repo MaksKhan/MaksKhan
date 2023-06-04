@@ -3,9 +3,9 @@
 ### Machine learning engineer / Data Scientist
 
 ### 💻 ML stack
-<p align="center">
-  <img src="your_relative_path_here" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+<p align="left">
+  <a href"https://www.python.org/" target="_blank">
+  <img src="https://ru.wikipedia.org/wiki/Python#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Python_logo_and_wordmark.svg"/>
 </p>
 
 ### 👨‍🎓 Education
