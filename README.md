@@ -3,7 +3,14 @@
 ### Machine learning engineer / Data Scientist
 
 ### 💻 ML stack
+
 <p align="left">
+  <a href="https://www.python.org/" align="left">
+    <img src="https://cdn66.printdirect.ru/cache/product/26/35/6239603/tov/all/480z480_front_1009_0_0_0_5614f2aa57b291cb813562e1fd64.jpg"/ width=50 height=50>
+  </a>
+  <a href="https://www.python.org/" align="left">
+    <img src="https://www.unitygroup.com/wp-content/uploads/2020/12/Scikit-learn_logo.jpg"/ width=50 height=50>
+  </a>
   <img src="https://cdn66.printdirect.ru/cache/product/26/35/6239603/tov/all/480z480_front_1009_0_0_0_5614f2aa57b291cb813562e1fd64.jpg"/ width=50 height=50>
   <img src="https://www.unitygroup.com/wp-content/uploads/2020/12/Scikit-learn_logo.jpg"/ width=50 height=50>
   <img src="https://jarcasting.com/img/org_logos/c/a/catboost.png"/ width=50 height=50>
