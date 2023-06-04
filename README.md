@@ -35,6 +35,6 @@
 
 ### Concats
 
-<b href="https://t.me/duck_mooduck" align="left">
+<a href="https://t.me/duck_mooduck" align="left">
   <img src="https://arion-metal.ru/local/templates/bx_orion/images/tlg.png"/ width=50 height=50>
-</b>
+</a>
