@@ -38,6 +38,6 @@
 <a href="https://t.me/duck_mooduck" align="left">
   <img src="https://arion-metal.ru/local/templates/bx_orion/images/tlg.png"/ width=50 height=50>
 </a>
-<a href="handusmaksim@gmail.com" align="left">
+<a href="https://mail.google.com/mail/u/0/#all" align="left">
   <img src="https://i.ytimg.com/vi/X0sbifk3yVk/maxresdefault.jpg"/ width=80 height=50>
 </a>
