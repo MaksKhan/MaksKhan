@@ -50,7 +50,7 @@
 * 🇬🇧 English  - B2
 * 🇩🇪 German - A2
 
-### Concats
+### Contacts
 
 <a href="https://t.me/duck_mooduck" align="left">
   <img src="https://arion-metal.ru/local/templates/bx_orion/images/tlg.png"/ width=50 height=50>
