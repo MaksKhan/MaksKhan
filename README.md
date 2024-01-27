@@ -40,6 +40,8 @@
 
 
 ### 🏆 Competitions
+* 🥈[Rucode 7](https://rucode.net/) "Radar data classification" 3, 2023
+* 🥉[AI Energy Innopolis](https://aistudy.innopolis.university/aienergy-eng) "Detection of glass insulators" 3, 2023
 * 🥉[Rucode 7](https://rucode.net/) "AI-generated text classification" 3, 2023
 * [Digital breakthrough](https://hacks-ai.ru/) "Machine learning on graphs" 5, 2023
 * [TGT-Sandstorm](https://tgt.timepad.ru/event/2317816/) "Audio Classification" 16/103, 2023
