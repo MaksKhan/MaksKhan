@@ -31,6 +31,9 @@
   </a>
 </p>
 
+
+### 💻 Work experience
+* MLE at VK 🔵 (December 2023 - Present Day)
             
 ### 👨‍🎓 Education
 * [NUST MISIS](https://en.misis.ru/) (Since 2022)
