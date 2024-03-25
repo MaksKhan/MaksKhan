@@ -43,11 +43,13 @@
 
 
 ### 🏆 Competitions
-* 🥈[Rucode 7](https://rucode.net/) "Radar data classification" 3, 2023
-* 🥉[AI Energy Innopolis](https://aistudy.innopolis.university/aienergy-eng) "Detection of glass insulators" 3, 2023
-* 🥉[Rucode 7](https://rucode.net/) "AI-generated text classification" 3, 2023
-* [Digital breakthrough](https://hacks-ai.ru/) "Machine learning on graphs" 5, 2023
-* [TGT-Sandstorm](https://tgt.timepad.ru/event/2317816/) "Audio Classification" 16/103, 2023
+* 🥇[Kamchatka Hack (World youth festival)](https://tenchat.ru/media/2074987-privet-mezhdunarodniy-khakaton-i-vsemirniy-festival-molodezhi-2024) "Object Detecteion & Object Tracking", 1st place, 2024 | [Solution](https://github.com/sir-timio/neuro-marine)
+* 🥇[IT Purple Hack (Alfa case)](https://geekbattle.online/events/it-purple-hack) "Time series", 1st place, 2024 | [Solution](https://github.com/fropych/purplehack/tree/master)
+* 🥈[Rucode 7](https://rucode.net/) "Radar data classification", 3rd place, 2023
+* 🥉[AI Energy Innopolis](https://aistudy.innopolis.university/aienergy-eng) "Detection of glass insulators", 3rd place, 2023 | [Solution](https://github.com/timur612/insulator_defect_detection)
+* 🥉[Rucode 7](https://rucode.net/) "AI-generated text classification", 3rd place, 2023 | [Solution](https://github.com/MaksKhan/RuCode_7)
+* [Digital breakthrough (VK case)](https://hacks-ai.ru/) "Machine learning on graphs" 5, 2023
+* [TGT-Sandstorm](https://tgt.timepad.ru/event/2317816/) "Audio Classification" 16/103, 2023 | [Solution](https://github.com/MaksKhan/TGT-hack)
 * [CleanCodeCup](http://it-math.asu.ru/) "Image Classification" 7, 2023
 
 ### :earth_africa: Languages
